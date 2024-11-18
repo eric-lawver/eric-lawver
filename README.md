@@ -4,6 +4,6 @@
   -  building complex products with hardware and software components.
   -  Rock Climbing
   -  Motorcycles
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, HTML & CSS
 - 📫 How to reach me:
   - Email: ericlawver@gmail.com
